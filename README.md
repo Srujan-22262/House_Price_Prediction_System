@@ -123,7 +123,7 @@ Pickle
 
 ▶ How to Run Locally
 1️⃣ Clone the repo
-git clone https://github.com/yourusername/bengaluru-house-price-prediction.git
+git clone https://github.com/Srujan-22262/bengaluru-house-price-prediction
 cd bengaluru-house-price-prediction
 
 2️⃣ Install dependencies
